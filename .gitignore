@@ -5,3 +5,4 @@ resources/links_small.csv
 resources/ratings.csv
 resources/ratings_small.csv
 config.py
+ETL_practice.ipynb
