@@ -1,3 +1,3 @@
-# Extract, Transform, Load - Amazing Prime
+# Extract, Transform, Load - Movies
 
 Perform an ETL process on movie data.
